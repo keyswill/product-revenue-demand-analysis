@@ -1,4 +1,4 @@
-# Electronics Sales Performance Analysis
+# Balancing Revenue and Unit Demand for Product Strategy
 
 ## Project Overview
 
